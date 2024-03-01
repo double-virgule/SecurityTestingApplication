@@ -12,3 +12,5 @@ I'm not a programmer, and I didn't want to waste too much time on this, so it is
 ![image](https://github.com/double-virgule/SecurityTestingApp/assets/16672129/c9469444-b473-4271-b1d4-284960aad82c)
 
 ![image](https://github.com/double-virgule/SecurityTestingApp/assets/16672129/87ea4454-c757-4bcf-9f21-4540cbbcc700)
+
+[Download the latest EXE directly](https://github.com/double-virgule/SecurityTestingApplication/raw/main/SecurityTestingApp.exe), if you're comfortable downloading random EXEs from Github repositories and running them on your machines. 
